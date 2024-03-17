@@ -1,140 +1,140 @@
 {
   "categories": [
     {
-      "name": "category name_1",
-      "preview": "https://avatars.mds.yandex.net/i?id=2d0b0389ddc1716081a6bb371f855101a82b1de8-12544737-images-thumbs&n=13",
+      "name": "Nextbots Obunga_1",
+      "preview": "https://avatars.mds.yandex.net/i?id=5b7e68382591b457ecdbfbb0a0a92aab45588674-6372745-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=ef6c01eed3e10c8a038e5265d2045d04216da3b8-10878270-images-thumbs&n=13"
+          "category": "Nextbots Obunga_1",
+          "path": "https://avatars.mds.yandex.net/i?id=0e0eb8e32193b052d5e719c6600b11d5df1f1efd-9103674-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=9ef176f93979e69d8e8e4877b357d8b941966c9d-4275701-images-thumbs&n=13"
+          "category": "Nextbots Obunga_1",
+          "path": "https://avatars.mds.yandex.net/i?id=ee07ec910ebc565385575025fe8d82bf-4078138-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=0fb0e1b1673709f84d1a4ea713f2fe38cf539d4a-10350336-images-thumbs&n=13"
+          "category": "Nextbots Obunga_1",
+          "path": "https://avatars.mds.yandex.net/i?id=d4c1048475674a95d95baf70153ddb8894f7375c-10143227-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=ab20b3c121c53ea1ccd0f11728b8e90f9b8f5d07-6903367-images-thumbs&n=13"
+          "category": "Nextbots Obunga_1",
+          "path": "https://avatars.mds.yandex.net/i?id=a4043036874ea6b8c7f85dd2e08b7b81136d6f75-5234343-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=a2770638d866b08bd8bdb94d61cd53e5-5233966-images-thumbs&n=13"
+          "category": "Nextbots Obunga_1",
+          "path": "https://avatars.mds.yandex.net/i?id=a4043036874ea6b8c7f85dd2e08b7b81136d6f75-5234343-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=cc929d02ce26ff5077c2f88fab37d8fe072735c4-11271031-images-thumbs&n=13"
+          "category": "Nextbots Obunga_1",
+          "path": "https://avatars.mds.yandex.net/i?id=1af5bb04d1964ec16a7e031bffefde5c80a63937-8829620-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=57818919ae4e9fa55c268cca3e5e258ffca6199d-7989082-images-thumbs&n=13"
+          "category": "Nextbots Obunga_1",
+          "path": "https://avatars.mds.yandex.net/i?id=11249d23edaca1cc66ccf3b74226922ccd3bf4b8-9599837-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_1",
-          "path": "https://avatars.mds.yandex.net/i?id=85ad171a19660d05fb54d26562332047385f62c5-12585680-images-thumbs&n=13"
+          "category": "Nextbots Obunga_1",
+          "path": "https://avatars.mds.yandex.net/i?id=65030ebc9bf174f4f9eedd0b5b9379c2c727eb64-4297394-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_2",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true",
+      "name": "Nextbots Obunga_2",
+      "preview": "https://avatars.mds.yandex.net/i?id=52e6b6e25b70a57caf4695eeb61f60933d2d8b74-10414208-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/2503295.jpg?raw=true"
+          "category": "Nextbots Obunga_2",
+          "path": "https://avatars.mds.yandex.net/i?id=80b472857f3828fd47b26bce0f94d5e49abc4749-7732273-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_2",
+          "path": "https://avatars.mds.yandex.net/i?id=a0bd803fc010095937bd031adfd1b0616f0cd466-4949878-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_2",
+          "path": "https://avatars.mds.yandex.net/i?id=e12cc1da0fdc6d06217c544b5e2db182c9c23826-9068727-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_2",
+          "path": "https://avatars.mds.yandex.net/i?id=a0bd803fc010095937bd031adfd1b0616f0cd466-4949878-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_2",
+          "path": "https://avatars.mds.yandex.net/i?id=f1d0fd95e957fbb61c11e34b7d73e945845d69bd-8497831-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_2",
+          "path": "https://avatars.mds.yandex.net/i?id=1bc1f25007c097fcfef2841dcab60456af21d030-8981113-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_2",
+          "path": "https://avatars.mds.yandex.net/i?id=03d35462c2ce535b45fea0c247eee4b2df51bb8f-9069472-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_2",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_2",
+          "path": "https://avatars.mds.yandex.net/i?id=910bf5b357444d6f9b43d43573f630d64b854862-8082760-images-thumbs&n=13"
         }
       ]
     },
     {
-      "name": "category_name_3",
-      "preview": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true",
+      "name": "Nextbots Obunga_3",
+      "preview": "https://avatars.mds.yandex.net/i?id=5ed6a15aed9f0617cb2208f3692056f28bc6c04c-10639915-images-thumbs&n=13",
       "wallpapers": [
         {
           "id": 0,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_3",
+          "path": "https://avatars.mds.yandex.net/i?id=4e6a834aef29eaa6aec49647ab39b3ee9b805c18-5284430-images-thumbs&n=13"
         },
         {
           "id": 1,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_3",
+          "path": "https://avatars.mds.yandex.net/i?id=11dc47029b757cbc21236769d2e76e85f03500b7-4364981-images-thumbs&n=13"
         },
         {
           "id": 2,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_3",
+          "path": "https://avatars.mds.yandex.net/i?id=34ee8f8709e6c0fcbc1ebb1480c884d26897dee1-10356912-images-thumbs&n=13"
         },
         {
           "id": 3,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_3",
+          "path": "https://avatars.mds.yandex.net/i?id=6503016f625e071ac6118565e91bd1531428cbe3-8497450-images-thumbs&n=13"
         },
         {
           "id": 4,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_3",
+          "path": "https://avatars.mds.yandex.net/i?id=a9b3c763906db201b8bbe72dbb4c5f4480dca041-4428735-images-thumbs&n=13"
         },
         {
           "id": 5,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_3",
+          "path": "https://avatars.mds.yandex.net/i?id=bf5df0434cdd1958b6cf16958777066fc28197c1-4956094-images-thumbs&n=13"
         },
         {
           "id": 6,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_3",
+          "path": "https://avatars.mds.yandex.net/i?id=43c82d6c341d206c8c335a731d12b54d17caaafa-10330387-images-thumbs&n=13"
         },
         {
           "id": 7,
-          "category": "category_name_3",
-          "path": "https://github.com/imad-123/callrecorder.github.io/blob/gh-pages/219988.jpg?raw=true"
+          "category": "Nextbots Obunga_3",
+          "path": "https://avatars.mds.yandex.net/i?id=88c01b971d3770cd88c3d26c47cb5256553e7356-12165746-images-thumbs&n=13"
         }
       ]
     },
