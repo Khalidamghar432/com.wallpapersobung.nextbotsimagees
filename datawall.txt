@@ -135,10 +135,7 @@
           "id": 7,
           "category": "Nextbots Obunga_3",
           "path": "https://avatars.mds.yandex.net/i?id=88c01b971d3770cd88c3d26c47cb5256553e7356-12165746-images-thumbs&n=13"
-        }
-      ]
-    },
-    
+       }
       ]
     }
   ]
